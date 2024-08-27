@@ -19,7 +19,7 @@ public class FirstSteps_complete {
           pwd --> prints the current directory you are in
           ls --> lists the items in the current directory
           cd ___ --> opens a directory (where ___ is replaced by the directory name)
-          cd .. --> closes the directory and moves you back to a higher-level folder
+          cd .. --> closes the directory and moves you back to the higher-level folder
 
     OR
 
